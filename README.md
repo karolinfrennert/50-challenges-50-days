@@ -2,4 +2,6 @@
 
 I am doing this challenge to keep coding every day, and explore new topics and tricks that I havn't used earlier as well as revisiting and sharpening my skills in HTML, CSS and JS.
 
+Code like there is no tomorrow!!
+
 The challenge can be found @ https://www.udemy.com/course/50-projects-50-days/
